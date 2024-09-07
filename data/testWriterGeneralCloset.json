@@ -1,0 +1,30 @@
+{
+    "winter outfit": [{
+        "accessories": "empty",
+        "name": "cold",
+        "outer top": "empty",
+        "inner top": "shirt",
+        "inner bottom": "empty",
+        "outer bottom": "empty"
+    }],
+    "summer outfit": [{
+        "accessories": "empty",
+        "name": "warm",
+        "outer top": "coat",
+        "inner top": "shirt",
+        "inner bottom": "empty",
+        "outer bottom": "empty"
+    }],
+    "inventory": [
+        {
+            "name": "shirt",
+            "description": "blue",
+            "type": 0
+        },
+        {
+            "name": "coat",
+            "description": "black",
+            "type": 1
+        }
+    ]
+}
