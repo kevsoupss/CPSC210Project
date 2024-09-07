@@ -1,4 +1,3 @@
-# My Personal Project
 
 ## Closet Application
 
